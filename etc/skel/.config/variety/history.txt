@@ -1,0 +1,7 @@
+0
+/home/vicyos/.config/herbstluftwm/121420.jpg
+/usr/share/backgrounds/vicyos-wallpapers/121420.jpg
+/usr/share/backgrounds/vicyos-wallpapers/moon_sunset_landscape.png
+/usr/share/backgrounds/vicyos-wallpapers/121420.jpg
+/home/vicyos/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527883170_04afb721c1_o.jpg
+/usr/share/backgrounds/arcolinux/marco_arco_wallpaper_009-1920x1080.jpg
